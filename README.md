@@ -1,6 +1,10 @@
-# clean-af
+# Sebelzahn Animes
+
+
+Little anime collection to never loose track of your animes...
 
 
 
-
-hallo sebelzahn
+- juju zukaisen
+- naruto shippuden
+- naruto
